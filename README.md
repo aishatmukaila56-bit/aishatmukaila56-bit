@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hi there 👋 My name is Mukaila Aishat
 
-<!--
-**aishatmukaila56-bit/aishatmukaila56-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst.
 
-Here are some ideas to get you started:
+Interesting Facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m a data-driven problem solver who transforms raw data into meaningful insights. I collect, clean, analyze, and interpret datasets to uncover trends, identify opportunities, and provide actionable solutions to complex business challenges.
+👯 I’m looking to collaborate with other data professionals to work on real world and make data driven decisions
+🤔 I’m open to job opportunites
+💬 Ask me about subject relating data analytics
+📝 I regularly write articles on Medium
+📫 How to reach me: Email
+😄 Pronouns: she/her
+⚡ Fun fact: I love movies. Reading novels and playing Scrabble etc.
